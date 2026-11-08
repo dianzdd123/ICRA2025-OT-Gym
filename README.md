@@ -4,6 +4,8 @@
 
 ## Start here
 
+**Repository:** [dianzdd123/ICRA2025-OT-Gym](https://github.com/dianzdd123/ICRA2025-OT-Gym)
+
 This repository is a fork of [Zongcai23/ICRA2025-OT-Gym](https://github.com/Zongcai23/ICRA2025-OT-Gym). Original authorship, citations and upstream notices are retained. Changes here apply to this fork.
 
 **Scope:** Archive-based research release: source, models and scenes are distributed in ZIP files.
